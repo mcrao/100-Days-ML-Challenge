@@ -1,9 +1,9 @@
-# Day-4-ML-Challenge
+# Day-5-ML-Challenge
 
-This is Day 4 Machine Learning Challenge feat Om Deskhmukh.
+This is Day 5 Machine Learning Challenge feat Om Deskhmukh.
 
-Today's topic of "Cleaning The Data" was framed and designed from one of my fellow Machine Learning Enthusiast, Mr Om Deshmukh.
-Please check on his Git profile and make sure you follow him for latest updates and amazing work collection. 
-Git Link of Om: https://github.com/omdeshmukh
+Today's topic of "Exploratory Data Analysis". Hope you all have gone through the material links which was given in the ML Community Group.
+Please try to answer all the questions.
+Upload the solution file to the drive link present in the Whatsapp Group Description.
 
 Good Luck Solving Problems!
