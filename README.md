@@ -1,8 +1,7 @@
-# Day-2-ML-Challenge
-This is Day 2 Machine Learning Challenge.
+# 100 Day Machine Learning Challenge
 
-Use the repository to find the file which contains problem statements for todays challenge.
+This is just a self & small initiative taken by few Machine Learning Enthusiasts across IT to have community where every ML like minded people come together, learn, work and develop something great!
 
-If you have received the link to the repository, meaning today's learning phase has ended and you're here to test your knowledge.
+Be a part of this 100 day challenge and let us see where we stand at the finishing line!
 
-Good Luck Solving Problems!
+Good Luck!
