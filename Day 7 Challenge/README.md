@@ -1,9 +1,9 @@
-# Day-6-ML-Challenge
+# Day-7-ML-Challenge
 
-This is Day 6 Machine Learning Challenge.
+This is Day 7 Machine Learning Challenge.
 
-Today's topic of "Seaborn" was framed and designed from one of my fellow Machine Learning Enthusiast, Mr Om Deshmukh.
-Please check on his Git profile and make sure you follow him for latest updates and amazing work collection. 
-Git Link of Om: https://github.com/omdeshmukh
+Today's topic of core "Seaborn" as Day 6 Challenge covered more of "Matplotlib" questions!
 
-Good Luck Solving Problems!
+In today's challenge, you do not require dataset as this is also a form of test how you load the data set which is already available at seaborn dataset url.
+
+Good Luck Designing Amazing Plots!
