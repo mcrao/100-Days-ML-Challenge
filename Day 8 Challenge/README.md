@@ -1,9 +1,8 @@
-# Day-6-ML-Challenge
+# Day-8-ML-Challenge
 
-This is Day 6 Machine Learning Challenge.
+This is Day 8 Machine Learning Challenge.
 
-Today's topic of "Seaborn" was framed and designed from one of my fellow Machine Learning Enthusiast, Mr Om Deshmukh.
-Please check on his Git profile and make sure you follow him for latest updates and amazing work collection. 
-Git Link of Om: https://github.com/omdeshmukh
+Infact I must say this is more of a examination for you guys how well you're prepared with KNN Algorithm.
+Problem statement is to use KNN Algorithm to predict the Iris flower into their classified breed.
 
-Good Luck Solving Problems!
+Good Luck Predicting Flowers into their classification!
