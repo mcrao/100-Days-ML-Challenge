@@ -1,9 +1,8 @@
-# Day-6-ML-Challenge
+# Day-21-ML-Challenge
 
-This is Day 6 Machine Learning Challenge.
+This is Day 21 Machine Learning Challenge - (Buffer 3 Days)
 
-Today's topic of "Seaborn" was framed and designed from one of my fellow Machine Learning Enthusiast, Mr Om Deshmukh.
-Please check on his Git profile and make sure you follow him for latest updates and amazing work collection. 
-Git Link of Om: https://github.com/omdeshmukh
+On April 15, 1912, a tragic incident of the unsinkable Titanic Ship fell apart over Antartica.
+Problem statement is to apply your knowledge to train your model and predict the survival of the passengers in Titanic.
 
-Good Luck Solving Problems!
+Good Luck!
